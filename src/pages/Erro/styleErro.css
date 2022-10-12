@@ -1,0 +1,23 @@
+.not-found {
+  width: 100%;
+  height: calc(100vh - 60px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+  font-size: 200px;
+}
+
+.botao {
+  background-color: #116fdb;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 1rem;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
